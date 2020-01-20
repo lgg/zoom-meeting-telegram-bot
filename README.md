@@ -21,6 +21,7 @@ Bot accept commands only from admin ids in db. Set first admin id in .env file
 - add shedule command
 - add user tag functionality
 - `wip` add calls to google-calendar
+- add zoom login (to use one instance of bot for many zoom users) (remove admins in db - user asks for `/create` - check if he set zoom account, if not - ask for auth)
 
 ## License
 
