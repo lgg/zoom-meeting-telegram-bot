@@ -14,7 +14,14 @@ Bot accept commands only from admin ids in db. Set first admin id in .env file
 
 ## dev roadmap
 
-- create zoom call
+- create telegram-bot base
+- add zoom auth
+    - add auth through db
+    - add auth refreshing token
+    - add auth through bot commands
+- create zoom meeting
+    - create instant meetings
+    - create scheduled meetings
 - accept commands only from users in db
 - add/remove users in db
 - add create call from bot
