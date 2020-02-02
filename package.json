@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/lgg/zoom-call-create-bot#readme",
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "socks5-https-client": "^1.2.1"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
