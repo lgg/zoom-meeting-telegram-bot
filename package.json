@@ -1,7 +1,7 @@
 {
-  "name": "zoom-call-create-bot",
+  "name": "zoom-meeting-telegram-bot",
   "version": "1.0.0",
-  "description": "Telegram bot for creating zoom meeting from chat",
+  "description": "Telegram bot for creating Zoom meeting from chat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lgg/zoom-call-create-bot.git"
+    "url": "git+https://github.com/lgg/zoom-meeting-telegram-bot.git"
   },
   "keywords": [
     "zoom",
@@ -19,9 +19,9 @@
   "author": "lgg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lgg/zoom-call-create-bot/issues"
+    "url": "https://github.com/lgg/zoom-meeting-telegram-bot/issues"
   },
-  "homepage": "https://github.com/lgg/zoom-call-create-bot#readme",
+  "homepage": "https://github.com/lgg/zoom-meeting-telegram-bot#readme",
   "devDependencies": {
     "nodemon": "^2.0.2",
     "socks5-https-client": "^1.2.1"
