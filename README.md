@@ -1,5 +1,7 @@
 # Zoom Call Create Bot
 
+**Bot Not ready yet. Work in Progress, stay tuned!**
+
 - `/create` - create call imediatly
 - `/shedule 14:20` - create call in time
 - `/shedule 12.10 14:20` - create call in date and time
