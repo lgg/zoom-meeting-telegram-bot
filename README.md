@@ -1,4 +1,4 @@
-# Zoom Call Create Bot
+# Create Zoom meeting from Telegram bot
 
 **Bot Not ready yet. Work in Progress, stay tuned!**
 
